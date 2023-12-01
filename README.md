@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/speefak/cpuman-cli/main/cpuman-cli_screenshot_v2.7.png
+
 # cpuman-cli
 manage cpu cores and powerstatus of cpu ( ncurses )
 
