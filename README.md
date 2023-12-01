@@ -15,7 +15,7 @@ manage cpu cores and powerstatus of cpu ( ncurses )
      -cpi			=> use cpuinfo output for freqenucy calculating
      
 
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/speefak/cpuman-cli/main/cpuman-cli_screenshot_v2.7.png"  style="text-align:center" >
-
 </div>
