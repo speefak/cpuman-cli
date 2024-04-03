@@ -121,7 +121,7 @@ usage() {
 	printf "\n"
 	printf " Usage: $(basename $0) <options> "
 	printf "\n"
-	printf " -ss <0.1-999>		=> show cpu specifications ( <seconds> for loop output )\n"
+	printf " -ss <0.1-999>		=> (s)how cpu (s)pecifications ( <seconds> for loop output )\n"
 	printf " -[e|d]c <1,2-3,4>	=> (e)nable (d)isable core \n"
 	printf " -[e|d]p <1,4-5,8>	=> (e)nable (d)isable processor \n"
 	printf " -[e|d]h 		=> (e)nable (d)isable hyperthreading \n"
