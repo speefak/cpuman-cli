@@ -1,5 +1,5 @@
 #!/bin/bash
-# name          : cpuman-cliCPUCoreTmpAvg
+# name          : cpuman-cli
 # desciption    : manage cpu cores and powerstatus of cpu
 # autor         : speefak ( itoss@gmx.de )
 # licence       : (CC) BY-NC-SA
