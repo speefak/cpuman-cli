@@ -131,7 +131,7 @@ usage() {
 	printf " -m			=> monochrome output \n"
 	printf " -i			=> show script information \n"
 	printf " -cfrp			=> check for required packets \n"
-	printf " -cpi			=> use cpuinfo output for freqenucy calculating"
+#	printf " -cpi			=> use cpuinfo output for freqenucy calculating"
 	printf  "\n${LRed} $1 ${Reset}\n"
 	printf "\n"
 	exit
