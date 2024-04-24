@@ -2,7 +2,7 @@
 manage cpu cores and powerstatus of cpu ( ncurses )
 
     Usage: cpuman-cli_v2.1.sh <options> 
-     -ss <0.1-999>		=> show cpu specifications ( <seconds> for loop output )
+     -ss <1-999|cpu>	=> (s)how cpu (s)pecifications ( <seconds> for loop output | cpu summary )
      -[e|d]c <1,2-3,4>	=> (e)nable (d)isable core 
      -[e|d]p <1,4-5,8>	=> (e)nable (d)isable cpu 
      -[e|d]h 		=> (e)nable (d)isable hyperthreading 
