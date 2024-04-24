@@ -12,7 +12,6 @@ manage cpu cores and powerstatus of cpu ( ncurses )
      -m			=> monochrome output 
      -i			=> show script information 
      -cfrp			=> check for required packets 
-     -cpi			=> use cpuinfo output for freqenucy calculating
      
 
 
