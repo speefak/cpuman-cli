@@ -1,10 +1,10 @@
 # cpuman-cli
 manage cpu cores and powerstatus of cpu ( ncurses )
 
-       Usage: cpuman-cli_v3.6.sh <options> 
-        -ss <1-999|cpu>	=> (s)how cpu (s)pecifications ( <seconds> for loop output | cpu summary )
-        -[e|d]c <1,2-3,4>	=> (e)nable (d)isable core 
-        -[e|d]p <1,4-5,8>	=> (e)nable (d)isable processor 
+    Usage: cpuman-cli_v3.6.sh <options> 
+    -ss <1-999|cpu>	    => (s)how cpu (s)pecifications ( <seconds> for loop output | cpu summary )
+    -[e|d]c <1,2-3,4>	    => (e)nable (d)isable core 
+    -[e|d]p <1,4-5,8>	    => (e)nable (d)isable processor 
     -[e|d]h 		=> (e)nable (d)isable hyperthreading 
     -[e|d]a 		=> (e)nable (d)isable all CPUs and hyperthreading
     -tc <temp threshold>	=> cpu (t)emperature (c)heck ( send mail if threashold temp reached ) 
